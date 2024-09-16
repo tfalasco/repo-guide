@@ -24,3 +24,13 @@ A few projects I dreamt up to learn Python.
 | --- | --- |
 | Tides | [tides repo](https://github.com/tfalasco/tides) |
 | Pill Bottle | [pill-bottle repo](https://github.com/tfalasco/pill-bottle) |
+
+## Algorithms
+These repos are part of a C++ course from SNHU.  
+
+| Project Name | Repo |
+| --- | --- |
+| Hash Table | [HashTable repo](https://github.com/tfalasco/HashTable) |
+| Linked List | [LinkedList repo](https://github.com/tfalasco/LinkedList) |
+| Vector Sorting | [VectorSorting repo](https://github.com/tfalasco/VectorSorting) |
+| Binary Search Tree | [BinarySearchTree repo](https://github.com/tfalasco/BinarySearchTree) |
