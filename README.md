@@ -1,4 +1,4 @@
-# repo-guide
+# Guide to Repositories  
 An organized display of the repos on GitHub
 ## The Odin Project  
 ### Foundations  
